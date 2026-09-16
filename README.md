@@ -1,3 +1,7 @@
+## Parcours francais
+
+Un parcours documentaire en francais est disponible dans [docs/fr/](docs/fr/).
+
 [![npm](https://img.shields.io/npm/v/@dexe-network/dexe-protocol.svg)](https://www.npmjs.com/package/@dexe-network/dexe-protocol)
 
 <div align="center">
